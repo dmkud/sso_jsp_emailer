@@ -1,33 +1,3 @@
-# Login page
-
-Login with Verifone Identity Server
-
-The information you've entered does not match the information we have on file.
-
-This field is required.
-
-Must not have more than {0} characters.
-
-Email has incorrect format. You can only use letters, numbers and symbols.
-
-Your will be redirected back to your portal...
-
-Login to your Verifone Account
-
-Login to your organization's sign in page
-
-Other login options:
-
-Email Address
-
-Forgot Password?
-
-You are going to be redirected to the Verifone login page.
-
-You are going to be redirected to your organization's login page.
-
-
-
 # Forgot Password status result page
 
 Recover Status with Verifone Identity Server
