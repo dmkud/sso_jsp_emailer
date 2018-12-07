@@ -1,131 +1,320 @@
-# Login page
-Login with Verifone Identity Server
-The information you've entered does not match the information we have on file.
-This field is required.
-Must not have more than {0} characters.
-Email has incorrect format. You can only use letters, numbers and symbols.
-Your will be redirected back to your portal...
-Login to your Verifone Account
-Login to your organization's sign in page
-Other login options:
-Email Address
-Forgot Password?
-You are going to be redirected to the Verifone login page.
-You are going to be redirected to your organization's login page.
-
-# Forgot Password status result page
-Recover Status with Verifone Identity Server
-Email Confirmed!
-We've sent password reset instructions to login into your Verifone account. Please check your email.
-Cannot verify the user with given username or Captcha answer. Cannot proceed.
-Note: Check your spam folder if you don't see the password reset email in your inbox.
-
-# Setup password flow
-Password setup with Verifone Identity Server
-You are required to accept our Terms and Conditions and Privacy Policy.
-Password and Confirm Password must match.
-Unable to find an agreement for user. Check Service Provider settings
-Verifone Website and Account Terms of Service
-Verifone Privacy Policy
-Setup your Password
-To create your Verifone Account, please setup your Password by entering it below:
-Confirm Password
-I accept Verifone's Terms and Conditions and Privacy Policy for my Verifone Account
-Welcome to Verifone!
-Password Setup
-Your Verifone password has been set up successfully.
-
-# Reset password flow
-Password must contain at least 6 characters, including UPPER/lowercase and numbers.
-Confirm password must contain at least 6 characters, including UPPER/lowercase and numbers.
-Password Reset with Verifone Identity Server
-Password Reset Result with Verifone Identity Server
-Password and Confirm Password must match.
-Reset Password
-New password
-PROCEED
-We've reset the password for your Verifone account. You can now login using your new password.
-
-Use at least eight characters, one number or special character, one UPPER case, and one lower case character. Must not have more than 30 characters.
-#2018-06-18 = Common
-This field is required.
-Error!
-LOG IN
-login
-Thank you!
-
-#2018-06-18 = Login page
-Must not have more than 255 characters.
-New User?
-Sign Up
-Instruction redirect
-organization
-login options
-Redirect
-
-#2018-06-18 = Forgot Password page
-Title
-Success
-Maximum character count: 255
-Invalid format
-Email
-Send
-Back to  <a class="btn-cancel" id="btnCancel" href="#">  Login  </a>
-Complete form
-Disabled account
-Sorry
-
-#2018-06-18 = Forgot Password status result page
-Resend email
-Success
-message 
-note
-Your account has been disabled. For any questions, please contact your system administrator.
-
-#2018-06-18 = Setup Password page
-Terms and Conditions
-Password mismatch
-Confirm password
-locating agreement
-Privacy Policy
-Decline
-Agree
-Submit
-Confirm
-Instruction
-Setup your Password
-<div> To create your Verifone Account, </div> <div> please setup  <span class= "text-underline">  your  </span>  Password by entering it below: </div>
-Confirm password must contain at least 6 characters, including UPPER/lowercase and numbers.
-I accept <a href="#" > Verifone''s Terms and Conditions </a>  and  <a href="#"> Privacy Policy </a> for <span class="text-underline"> my Verifone </span> Account
-
-#2018-06-18 = Welcome page
-Welcome to Verifone!
-Password Setup
-Your Verifone password has been set up successfully.
-If you are a merchant, you must {0} and complete your merchant account registration and accept our Terms of Service for Verifone Solutions, which is necessary to access your Verifone payment device(s).
-User instruction
-Merchant instruction
-
-#2018-06-18 = Password reset page
-Password reset 
-Result page
-Instruction
-Password
-
-#2018-06-18 =  Password reset result page
-Password Reset Result with Verifone Identity Server
-We''ve reset the password for your Verifone account. You can now {0} using your new password.
-
-#2018-06-18 = Error page
-Hi there! The link to set up your password has expired. Please request a new one by clicking on the link below.
-Something went wrong during the authentication process. Please try signing in again.
-Retry with Verifone Identity Server
-Password Expired
-Link Expired
-Error occurred while doing password recover: account is locked
-
-#2018-06-18 = Welcome page
-Your account has been disabled. For any questions, please contact your system administrator.
-Sorry!
-Confirm Password
+# Login page
+
+Login with Verifone Identity Server
+
+The information you've entered does not match the information we have on file.
+
+This field is required.
+
+Must not have more than {0} characters.
+
+Email has incorrect format. You can only use letters, numbers and symbols.
+
+Your will be redirected back to your portal...
+
+Login to your Verifone Account
+
+Login to your organization's sign in page
+
+Other login options:
+
+Email Address
+
+Forgot Password?
+
+You are going to be redirected to the Verifone login page.
+
+You are going to be redirected to your organization's login page.
+
+
+
+# Forgot Password status result page
+
+Recover Status with Verifone Identity Server
+
+Email Confirmed!
+
+We've sent password reset instructions to login into your Verifone account. Please check your email.
+
+Cannot verify the user with given username or Captcha answer. Cannot proceed.
+
+Note: Check your spam folder if you don't see the password reset email in your inbox.
+
+
+
+# Setup password flow
+
+Password setup with Verifone Identity Server
+
+You are required to accept our Terms and Conditions and Privacy Policy.
+
+Password and Confirm Password must match.
+
+Unable to find an agreement for user. Check Service Provider settings
+
+Verifone Website and Account Terms of Service
+
+Verifone Privacy Policy
+
+Setup your Password
+
+To create your Verifone Account, please setup your Password by entering it below:
+
+Confirm Password
+
+I accept Verifone's Terms and Conditions and Privacy Policy for my Verifone Account
+
+Welcome to Verifone!
+
+Password Setup
+
+Your Verifone password has been set up successfully.
+
+
+
+# Reset password flow
+
+Password must contain at least 6 characters, including UPPER/lowercase and numbers.
+
+Confirm password must contain at least 6 characters, including UPPER/lowercase and numbers.
+
+Password Reset with Verifone Identity Server
+
+Password Reset Result with Verifone Identity Server
+
+Password and Confirm Password must match.
+
+Reset Password
+
+New password
+
+PROCEED
+
+We've reset the password for your Verifone account. You can now login using your new password.
+
+
+# misc
+
+Error! with Verifone Identity Server
+
+Link Expired
+
+Processing Errors
+
+Authentication Error
+
+Something went wrong during the authentication process. Please try signing in again.
+
+Retry with Verifone Identity Server 
+
+
+
+Use at least eight characters, one number or special character, one UPPER case, and one lower case character. Must not have more than 30 characters.
+
+
+
+
+
+
+
+#2018-06-18 = Common
+
+This field is required.
+
+Error!
+
+LOG IN
+
+login
+
+Thank you!
+
+
+
+#2018-06-18 = Login page
+
+Must not have more than 255 characters.
+
+New User?
+
+Sign Up
+
+Instruction redirect
+
+organization
+
+login options
+
+Redirect
+
+
+
+#2018-06-18 = Forgot Password page
+
+Title
+
+Success
+
+Maximum character count: 255
+
+Invalid format
+
+Email
+
+Send
+
+Back to  <a class="btn-cancel" id="btnCancel" href="#">  Login  </a>
+
+Complete form
+
+Disabled account
+
+Sorry
+
+
+
+#2018-06-18 = Forgot Password status result page
+
+Resend email
+
+Success
+
+message 
+
+note
+
+Your account has been disabled. For any questions, please contact your system administrator.
+
+
+
+#2018-06-18 = Setup Password page
+
+Terms and Conditions
+
+Password mismatch
+
+Confirm password
+
+locating agreement
+
+Privacy Policy
+
+Decline
+
+Agree
+
+Submit
+
+Confirm
+
+Instruction
+
+Setup your Password
+
+<div> To create your Verifone Account, </div> <div> please setup  <span class= "text-underline">  your  </span>  Password by entering it below: </div>
+
+Confirm password must contain at least 6 characters, including UPPER/lowercase and numbers.
+
+I accept <a href="#" > Verifone''s Terms and Conditions </a>  and  <a href="#"> Privacy Policy </a> for <span class="text-underline"> my Verifone </span> Account
+
+
+
+#2018-06-18 = Welcome page
+
+Welcome to Verifone!
+
+Password Setup
+
+Your Verifone password has been set up successfully.
+
+If you are a merchant, you must {0} and complete your merchant account registration and accept our Terms of Service for Verifone Solutions, which is necessary to access your Verifone payment device(s).
+
+User instruction
+
+Merchant instruction
+
+
+
+#2018-06-18 = Password reset page
+
+Password reset 
+
+Result page
+
+Instruction
+
+Password
+
+
+
+#2018-06-18 =  Password reset result page
+
+Password Reset Result with Verifone Identity Server
+
+We''ve reset the password for your Verifone account. You can now {0} using your new password.
+
+
+
+#2018-06-18 = Error page
+
 Hi there! The link to set up your password has expired. Please request a new one by clicking on the link below.
+
+Something went wrong during the authentication process. Please try signing in again.
+
+Retry with Verifone Identity Server
+
+Password Expired
+
+Link Expired
+
+Error occurred while doing password recover: account is locked
+
+
+
+#2018-06-18 = Welcome page
+
+Your account has been disabled. For any questions, please contact your system administrator.
+
+Sorry!
+
+Confirm Password
+
+Hi there! The link to set up your password has expired. Please request a new one by clicking on the link below.
+
+Our records indicate that you have not accepted our Terms and Conditions and Privacy Policy. <br > Please check your inbox for account activation email from Verifone and complete the process to accept our legal documentation online.
+
+Error occurred while doing password recover: account is locked
+
+Your Verifone merchant account is now active.
+
+Your Verifone merchant account is now active. Use this account to sign into Verifone Carbon.
+
+
+
+We''ve resent a new link to set up your password. Please check your email.
+
+Note: Check your spam folder if you don''t see the email in your inbox. The password reset link will expire within 24 hours for security reasons.
+
+
+
+We''ve resent a new link to set up your password. Please check your email.
+
+Note: Check your spam folder if you don''t see the email in your inbox. The password set up link will expire within 24 hours for security reasons.
+
+
+
+We''ve resent a new link to activate your Verifone account. Please check your email.
+
+Note: Check your spam folder if you don''t see the email in your inbox. The account activation link will expire within 24 hours for security reasons.
+
+
+
+We''ve resent a new link to confirm your account registration. Please check your email.
+
+Note: Check your spam folder if you don''t see the email in your inbox. The confirmation account registration link will expire within 24 hours for security reasons.
+
+
+
+Email Resent
+
+Recover Status with Verifone Identity Server
